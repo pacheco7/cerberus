@@ -1,5 +1,7 @@
 # Cerberus
 
+Frontend for the [Hades](https://github.com/lbighetti/hades/) mentorship platform, built with [elm](http://elm-lang.org/).
+
 - [Cerberus](#cerberus)
 	- [What is Cerberus](#what-is-cerberus)
 	- [Contributing](#contributing)
@@ -8,8 +10,6 @@
 	- [Git Pages](#git-pages)
 
 ## What is Cerberus
-
-Frontend for the [Hades](https://github.com/lbighetti/hades/) mentorship platform, built with [elm](http://elm-lang.org/).
 
 We are building a open source platform for mentorships.
 
